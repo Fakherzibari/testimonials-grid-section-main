@@ -1,0 +1,79 @@
+body {
+  background-color: #f4f4f2;
+  font-family: 'Barlow Semi Condensed', sans-serif;
+  font-size: 13px;
+}
+
+img {
+  float: left;
+  padding: 10px;
+  border-radius: 100%;
+}
+
+h1 {
+  font-size: 13px;
+  line-height: 1px;
+}
+
+h6 {
+  line-height: 0;
+  margin-top: 15px;
+}
+
+.Daniel {
+  background-color: hsl(263, 55%, 52%);
+  width: 450px;
+  color: white;
+  text-align: justify;
+  border-radius: 3%;
+  padding: 20px;
+  position: relative;
+  top: 150px;
+  left: 110px;
+}
+
+.Jonathan {
+  background-color: hsl(217, 19%, 35%);
+  width: 180px;
+  height: 220px;
+  color: white;
+  padding: 10px;
+  border-radius: 3%;
+  padding: 20px;
+  position: relative;
+  bottom: 128px;
+  left: 620px;
+}
+
+.Jeanette {
+  background-color: white;
+  width: 180px;
+  height: 220px;
+  color: black;
+  border-radius: 3%;
+  padding: 20px;
+  position: relative;
+  bottom: 90px;
+  left: 110px;
+}
+
+.Patrick {
+  background-color: hsl(219, 29%, 14%);
+  width: 450px;
+  color: white;
+  border-radius: 3%;
+  padding: 20px;
+  position: relative;
+  bottom: 350px;
+  left: 350px;
+}
+
+.Kira {
+  background-color: white;
+  width: 180px;
+  border-radius: 3%;
+  padding: 20px;
+  position: relative;
+  bottom: 910px;
+  left: 860px;
+}
